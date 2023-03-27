@@ -430,5 +430,5 @@ func (cli *Client) ResendAppTicket(ctx context.Context, req *larkcore.ResendAppT
 	return resp, nil
 }
 
-var FeishuBaseUrl = "https://open.feishu.cn"
+var FeishuBaseUrl = "https://open.f.mioffice.cn"
 var LarkBaseUrl = "https://open.larksuite.com"
